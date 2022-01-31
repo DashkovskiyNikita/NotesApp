@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="enter_note_here">Enter note here</string>
+    <string name="title">Title:</string>
+    <string name="enter_note_title_here">Enter note title here</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="empty_title_error">Title field is empty</string>
+    <string name="empty_text_error">Text field is empty</string>
+    <string name="success_added">Note successfully added</string>
+    <string name="success_updated">Note successfully updated</string>
+</resources>
